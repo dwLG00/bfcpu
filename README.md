@@ -11,10 +11,11 @@ My motivation for this project is to create a system architecture that is design
 By developing this CPU, I hope to demonstrate that CPUs with alternative, esoteric, or otherwise strange instruction sets are not only possible, but are also interesting.
 
 ## Roadmap
-	- ~~Finish creating register module for storing important data (current instruction, instruction pointer, etc.)~~
-	- ~~Finish creating the RAM module~~
-	- ~~Finish creating the instruction module~~
-	- ~~Create operation flowchart to dictate order of CPU internal instructions~~
-	- Create i/o module
-	- Finish wiring of CPU internal instructions and logic
-	- Finish wiring of bf instruction logic
+
+-  ~~Finish creating register module for storing important data (current instruction, instruction pointer, etc.)~~
+- ~~Finish creating the RAM module~~
+- ~~Finish creating the instruction module~~
+- ~~Create operation flowchart to dictate order of CPU internal instructions~~
+- Create i/o module
+- Finish wiring of CPU internal instructions and logic
+- Finish wiring of bf instruction logic
